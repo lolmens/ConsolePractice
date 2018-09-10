@@ -3,6 +3,10 @@
 
 ## Getting Started
 
+### Getting Started easy 
+Скачать архив с скомпилированной программой <a href="http://sitecorrectly.com/Project/ConsolePractice/ConsolePractice.zip" download="ConsolePractice.zip">ConsolePractice.zip</a>
+### Getting Started not easy
+
 Для начала взаимодействия с проектом нажмите на "Clone or Download" -> "Open in Visual Studio"
 
 ![alt text](http://sitecorrectly.com/Project/Download3.png)
